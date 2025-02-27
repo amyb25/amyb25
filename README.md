@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola! I'm Amy Baez 👋
+I am currently a student at Northeastern University, pursuing a combined degree in **Computer Science** and **Media Arts** with a concentration in **Animation**. 
+I am passionate about creating **fun, animated projects** or **interactive experiences** that combine my artistic creativity with technical skills to engage and entertain. <br>
+Feel free to connect with me on [Linkedin](www.linkedin.com/in/amy-baez) or send me an at [baez.am@northeastern.edu](mailto:baez.am@northeastern.edu?subject=[GitHub])
 
 <!--
 **amyb25/amyb25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
